@@ -17,7 +17,7 @@ module.exports = {
     // hot: true,
     historyApiFallback: true,
   },
-  watch: true,
+  // watch: true,
   resolve: {
     extensions: ['.js', '.jsx', '.json', '.styl'],
     modules: [
